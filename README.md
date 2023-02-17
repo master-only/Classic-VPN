@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Classic-VPN</title>
+    <title>Classic-VPN
     <style>
       html {
         height: 50%;
@@ -24,7 +24,7 @@
         <tr>
           <th>ซิม</th>
           <th>โปรเสริม</th>
-          <th>สมัคร</th>
+          <th>สถานะ</th>
         </tr>
       </thead>
       <tfoot>
