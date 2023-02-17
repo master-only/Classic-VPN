@@ -1,5 +1,6 @@
-
-       Classic-VPN
+<html>
+  <head>
+    <title>Classic-VPN</title>
     <style>
       html {
         height: 50%;
