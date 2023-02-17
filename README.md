@@ -17,7 +17,7 @@
   <body>
     <table summary="Goalscorers" width="400" border="1">
       <caption>
-        โปรเสริม
+        รายระเอียดข้อมูลเข้าใช้งานvpn
         <hr>
       </caption>
       <thead>
