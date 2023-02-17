@@ -41,12 +41,12 @@
         <tr>
           <td>DTAC</td>
           <td>NOPRO</td>
-          <td>✔️</td>
+          <td>✔️ ✔️</td>
         </tr>
         <tr>
           <td>TRUE</td>
           <td>NOPRO</td>
-          <td>✔️</td>
+          <td>✔️ ✔️</td>
         </tr>
       </tbody>
     </table>
