@@ -55,4 +55,12 @@
     ติดตั้งแอพ
   <body>
     <a href="https://github.com/master-only/keep/raw/main/Classic%20VPN.apk">Click Download </a>
-    
+    <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <form action="/form/submit" action="post"> 
+      <textarea name="comment" rows="12" cols="35">แสดงความคิดเห็น</textarea><br>
+      <input type="submit" name="submitInfo" value="ส่ง">
+    </form>
+  </body>
