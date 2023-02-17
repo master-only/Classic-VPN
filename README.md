@@ -60,4 +60,4 @@
     <a href="https://bit.ly/mra-line">ต่ออายุการใช้งาน<a/>
 
 
-COPYRIGHT © 2023 mracloud.online ALL RIGHTS RESERVED
+# COPYRIGHT © 2023 mracloud.online ALL RIGHTS RESERVED
