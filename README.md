@@ -2,7 +2,6 @@
 # 2023
 <html>
   <head>
-    <title>Title of the document</title>
     <style>
       html {
         height: 50%;
