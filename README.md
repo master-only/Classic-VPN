@@ -59,8 +59,13 @@
     <title>Title of the document</title>
   </head>
   <body>
-    <form action="/form/submit" action="https://bit.ly/mra-line"> 
+    <form action="/form/submit" action="mter9898m@gmail.com"> 
       <textarea name="comment" rows="12" cols="35">แสดงความคิดเห็น</textarea><br>
       <input type="submit" name="submitInfo" value="ส่ง">
     </form>
   </body>
+
+
+
+
+
