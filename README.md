@@ -61,3 +61,8 @@
 
 
 # COPYRIGHT © 2023 mracloud.online
+
+<div id="date_time"></div>
+<script>
+  document.getElementById("date_time").innerHTML = Date();
+</script>
