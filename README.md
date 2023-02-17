@@ -1,5 +1,5 @@
-#                Classic-VPN
-<!DOCTYPE html>
+# Classic-VPN
+#
 <html>
   <head>
     <title>Title of the document</title>
