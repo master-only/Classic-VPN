@@ -1,6 +1,5 @@
 # Classic-VPN
-# 2023
-<html>
+# <html>
   <head>
     <style>
       html {
