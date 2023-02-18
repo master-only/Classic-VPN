@@ -13,7 +13,7 @@
     </style>
   </head>
   <body>
-    <h2>เวอร์ชั่นล่าสุด</h2>
+    <center>เวอร์ชั่นล่าสุด</center>
   <body>
     <table summary="Goalscorers" width="400" border="1">
       <caption>
