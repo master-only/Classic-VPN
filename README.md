@@ -22,9 +22,9 @@
       </caption>
       <thead>
         <tr>
-          <th>ซิม</th>
+          <th>เครือข่าย</th>
           <th>แพ็คแกจ</th>
-          <th>สถานะ</th>
+          <th>คล่องแคล่ว</th>
         </tr>
       </thead>
       <tfoot>
