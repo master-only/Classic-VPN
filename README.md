@@ -60,7 +60,7 @@
     <a href="https://bit.ly/mra-line">ต่ออายุการใช้งาน<a/>
 
 
-# COPYRIGHT © 2023 online Server - Autoreboot On 05.00
+# COPYRIGHT © 2023 Online Server - Autoreboot On 05.00 AM
 
 <div id="date_time"></div>
 <script>
