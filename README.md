@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Classic VPN</title>
+    <title>หน้าหลัก</title>
     <style>
       html {
         height: 50%;
