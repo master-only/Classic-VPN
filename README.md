@@ -58,4 +58,4 @@
     สมัครสมาชิก
 <body>
     <a href="https://bit.ly/mra-line">ต่ออายุการใช้งาน<a/>
-〓 COPYRIGHT © 2023 Online Server - Autoreboot On 05.00
+〓 Online Server - Autoreboot On 05.00
