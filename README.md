@@ -1,24 +1,6 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <title>Classic VPN</title>
-    <style>
-      html {
-        height: 50%;
-      }
-      body {
-        padding-top: 30px;
-        background: url("https://github.com/master-only/Classic-VPN/raw/main/icon.png") no-repeat;
-        background-position-y: top;
-      }
-    </style>
-  </head>
-  <body>
-    <center>เวอร์ชั่นล่าสุด</center>
-  <body>
-    <table summary="Goalscorers" width="340" border="1">
-      <caption>
-        ✦✦รายระเอียดซิมเข้าใช้งานvpn✦✦
+    ✦✦รายระเอียดซิมเข้าใช้งานvpn✦✦
         <hr>
       </caption>
       <thead>
